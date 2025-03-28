@@ -1,0 +1,22 @@
+/* Existing responsive styles */
+/* @media (max-width: 768px) {
+.container {
+    width: 100%;
+}
+.container.row {
+    display: block;
+}
+.container.row.col {
+width: 100%;
+}
+.container.row.col img {
+    width: 100%;
+}
+} */ 
+ /*add Header styles here */
+ header{
+    background-color: #333;
+    color: rgb(175, 58, 58);
+    text-align: center;
+    padding: 10px 0;
+}
